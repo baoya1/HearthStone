@@ -1,2 +1,4 @@
 # HearthStone
-about HearthStone arena statistics
+created for fun
+
+about HearthStone arena statistics 
